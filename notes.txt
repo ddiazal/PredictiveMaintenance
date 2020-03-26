@@ -1,0 +1,17 @@
+¿Cuáles son los signos vitales asociados a la masa de los filtros?
+En general las variables que están registrando temperatura en grados Fahrenheit (F).
+Estas variables deberían estar relacionadas con la combustión y el aumento de masa 
+principalmente por hollín.
+
+¿cuáles son los signos vitales asociados a los valores de los metales?
+en general las variables que están relacionadas con carga, para que se produzca
+desgaste deben estar presentes la geometría y la carga, por ejemplo (Percent
+Load At Current Speed (%), habría que ver que otras variables están relacionadas.
+
+ME es un filtro que no corresponde a Minera Collahuasi y corresponde a Minera Escondida
+(ME) para ese filtro en particular no tenemos los signos vitales archivo csv.
+
+Los resultados del laboratorio en la tabla superior corresponden al analisis del filtro
+y ese analisis es el que se quiere evitar debido al tiempo que toma y que además es necesario retirar el filtro.
+Lo que es más simple es registrar la masa del filtro al momento de retirarlo
+y esa es la segunda relación que se quiere establecer.
